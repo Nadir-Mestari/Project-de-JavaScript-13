@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "cmake.configureOnOpen": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "Lucida Console",
+  "liveServer.settings.donotVerifyTags": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "tabnine.experimentalAutoImports": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "json.schemas": [],
+  "workbench.settings.applyToAllProfiles": []
+}
