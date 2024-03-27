@@ -16,7 +16,7 @@ async function repas(search) {
 
 
 function mealsplat() {
-
+    //
     if (meals == null) {
         result.innerHTML = "<h2>Pas de résultat</h2>"
     } else {
